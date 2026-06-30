@@ -1,5 +1,5 @@
-a=10
-b=20
+a=1000
+b=200
 if(a>b):
     print (a)
 else:
